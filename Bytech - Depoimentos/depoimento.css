@@ -1,0 +1,79 @@
+.img img {
+    position: relative;
+    display: flex;
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    border: 3px solid black;
+    margin-top: 45px;
+    flex-direction: column;
+    margin-left: -100%;
+}
+
+.depoimentocaio p {
+    position: absolute;
+    font-family: 'Inter';
+    font-style: bold;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 24px;
+    width: 551px;
+    right: 440px;
+    margin-top: 65px;
+    text-align: center;
+    border: 3px solid black;
+}
+
+.depoimento1{
+    display: flex;
+    justify-content: center;
+}
+ .linha{
+    margin-left: 400px;
+    margin-right: 300px;
+    position: relative;
+    margin-top: 30px
+ }
+
+ .img2 img {
+    display: flex;
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    border: 3px solid black;
+    margin-left: 620px;
+    margin-top: 50px;
+    flex-direction: column;
+}
+.depoimento2{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.depoimentoaugusto p {
+    position: absolute;
+    font-family: 'Inter';
+    font-style: bold;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 24px;
+    width: 551px;
+    right: 440px;
+    margin-top: -180px;
+    text-align: center;
+    border: 3px solid black;
+}
+.depoimentojhonny p {
+    position: absolute;
+    font-family: 'Inter';
+    font-style: bold;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 24px;
+    width: 551px;
+    right: 440px;
+    margin-top: -150px;
+    text-align: center;
+    border: 3px solid black;
+}
